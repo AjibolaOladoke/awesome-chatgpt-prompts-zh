@@ -1,21 +1,12 @@
-# 🧠ChatGPT 中文调教指南
+# awesome-chatgpt-prompts-zh
+
+## What This Is
+
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the awesome-chatgpt-prompts-zh notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
 ## Images
 
-[![awesome-chatgpt-prompts-zh](https://opengraph.githubassets.com/1/PlexPt/awesome-chatgpt-prompts-zh)](https://www.swifttechco.com)
-
-
-ChatGPT是由[OpenAI](https://www.swifttechco.com)训练的一款大型语言模型，能够和你进行任何领域的对话。
-
-[国内中文版](https://www.swifttechco.com)
-
-它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
-
-**[在 GitHub 上查看](https://www.swifttechco.com)**
-
-**[在 Gitee 上查看](https://www.swifttechco.com)**
-
-------
+[![awesome-chatgpt-prompts-zh](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 基于GPT5.5的国内中文版智造喵
 
@@ -59,7 +50,7 @@ ChatGPT是由[OpenAI](https://www.swifttechco.com)训练的一款大型语言模
 
 加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！与志同道合的人交流，共同提升你的知识水平！
 
-项目合作洽谈请联系微信 [点我](https://www.swifttechco.com)   （请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
+项目合作洽谈请联系微信 点我   （请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
 
 |                  直接加群                  |               如果前面的过期，加我拉你入群               |                          AI中文指南公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -411,7 +402,7 @@ ChatGPT是由[OpenAI](https://www.swifttechco.com)训练的一款大型语言模
 
 ## 担任开发者关系顾问：
 
-> 我想让你担任开发者关系顾问。我会给你一个软件包和它的相关文档。研究软件包及其可用文档，如果找不到，请回复“无法找到文档”。您的反馈需要包括定量分析（使用来自 StackOverflow、Hacker News 和 GitHub 的数据）内容，例如提交的问题、已解决的问题、存储库中的星数以及总体 StackOverflow 活动。如果有可以扩展的领域，请包括应添加的场景或上下文。包括所提供软件包的详细信息，例如下载次数以及一段时间内的相关统计数据。你应该比较工业竞争对手和封装时的优点或缺点。从软件工程师的专业意见的思维方式来解决这个问题。查看技术博客和网站（例如 TechCrunch.com 或 Crunchbase.com），如果数据不可用，请回复“无数据可用”。我的第一个要求是“express [https://www.swifttechco.com](https://www.swifttechco.com) ”
+> 我想让你担任开发者关系顾问。我会给你一个软件包和它的相关文档。研究软件包及其可用文档，如果找不到，请回复“无法找到文档”。您的反馈需要包括定量分析（使用来自 StackOverflow、Hacker News 和 GitHub 的数据）内容，例如提交的问题、已解决的问题、存储库中的星数以及总体 StackOverflow 活动。如果有可以扩展的领域，请包括应添加的场景或上下文。包括所提供软件包的详细信息，例如下载次数以及一段时间内的相关统计数据。你应该比较工业竞争对手和封装时的优点或缺点。从软件工程师的专业意见的思维方式来解决这个问题。查看技术博客和网站（例如 TechCrunch.com 或 Crunchbase.com），如果数据不可用，请回复“无数据可用”。我的第一个要求是“express https://www.swifttechco.com ”
 
 ## 担任院士
 
@@ -471,7 +462,7 @@ ChatGPT是由[OpenAI](https://www.swifttechco.com)训练的一款大型语言模
 
 ## 作为专业DBA
 
-贡献者：[墨娘](https://www.swifttechco.com)
+贡献者：墨娘
 
 > 我要你扮演一个专业DBA。我将提供给你数据表结构以及我的需求，你的目标是告知我性能最优的可执行的SQL语句，并尽可能的向我解释这段SQL语句，如果有更好的优化建议也可以提出来。
 >
@@ -692,15 +683,15 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 大量不同分类的中文语料库，欢迎拿去炼丹，训练大模型。
 
 点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://www.swifttechco.com) 搜索选择 GPU 计算型
-- [**【腾讯云】服务器，低至4.2元/月**](https://www.swifttechco.com) 选择 GPU 云服务器
+- **阿里云服务器** 搜索选择 GPU 计算型
+- **【腾讯云】服务器，低至4.2元/月** 选择 GPU 云服务器
 
-[讨论反馈](https://www.swifttechco.com)
+讨论反馈
 
 
 ## 解除封印咒语
 
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://www.swifttechco.com)
+#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 猫娘持续讨论更新
 
 #### [更多猫娘玩法点这个](./cat.md)
 
@@ -711,7 +702,7 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 
 ## 感谢
 
-[awesome-chatgpt-prompts](https://www.swifttechco.com)  本文部分内容翻译自此
+awesome-chatgpt-prompts  本文部分内容翻译自此
 
 ---
 
@@ -723,14 +714,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
